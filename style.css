@@ -1,0 +1,34 @@
+* {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: crimson;
+}
+.blocoGeral{
+    display: flex;
+    flex-direction: column;
+    background-color: pink;
+    width: 15rem;
+    border-radius: 16px;
+}
+.blocoNome {
+    padding: 10px;
+}
+.blocoEmail {
+    padding: 10px;
+}
+.blocoTelefone {
+    padding: 10px;
+}
+.blocoSenha {
+    padding: 10px;
+}
+.blocoBotao {
+    padding: 10px;
+}
+
+.blocoAlteracoes {
+    padding: 10px;
+}
